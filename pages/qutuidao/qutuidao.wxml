@@ -1,0 +1,15 @@
+<!--pages/qutuidao/qutuidao.wxml-->
+<view class="page__hd">
+<view class="page__title">最后一步？</view>
+        <view class="page__desc">关注公众号即可得到究极必杀技</view>
+</view>
+<!-- <image src="/image/erweima.jpeg" class="img" bindtap="shibie" show-menu-by-longpress='true'></image> -->
+<view class="erweima">
+<text>更多功能，日后上线</text>
+</view>
+<view class="weui-footer weui-footer_fixed-bottom">
+            <view class="weui-footer__links">
+                <navigator url="" class="weui-footer__link">吴学</navigator>
+            </view>
+            <view class="weui-footer__text">Copyright © 2019-2020 zhichao</view>
+        </view>

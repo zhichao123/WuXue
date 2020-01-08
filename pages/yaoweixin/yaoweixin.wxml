@@ -1,0 +1,52 @@
+<!--pages/yaoweixin/yaoweixin.wxml-->
+<view class="page__hd">
+  <view class="page__title">如何找女神要微信？</view>
+  <view class="page__desc">人生巅峰，这里是起点</view>
+</view>
+<view class="list_item" bindtap="details">
+  <view class="list_item_detail">
+    <text>更多功能请期待</text>
+  </view>
+</view>
+
+<view class="list_item" bindtap="videos">
+  <view class="list_item_detail">
+    <text>更多功能请期待</text>
+  </view>
+</view>
+
+<view class="list_item">
+  <view class="list_item_detail">
+    <text>更多功能请期待</text>
+  </view>
+</view>
+
+<view class="list_item">
+  <view class="list_item_detail">
+    <text>更多功能请期待</text>
+  </view>
+</view>
+
+<view class="list_item">
+  <view class="list_item_detail">
+    <text>更多功能请期待</text>
+  </view>
+</view>
+
+<view class="list_item">
+  <view class="list_item_detail">
+    <text>更多功能请期待</text>
+  </view>
+</view>
+
+<view class="list_item">
+  <view class="list_item_detail">
+    <text>晚来天欲雪能晚来天欲雪</text>
+  </view>
+</view>
+
+<view class="list_item">
+  <view class="list_item_detail">
+    <text>更多功能请期待</text>
+  </view>
+</view>

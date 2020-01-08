@@ -1,0 +1,32 @@
+/* pages/yaoweixin/video/video.wxss */
+.video_title {
+    text-align: left;
+    font-size: 50rpx;
+    font-weight: 400;
+}
+.video_name{
+  display: flex;
+  justify-content: center;
+  margin-left:3%;
+  width: 94%;
+  margin-right:3%; 
+  padding-top:20rpx;
+  padding-bottom:20rpx;
+  background: white;
+  margin-top: 30rpx;
+}
+.fenge{
+  height: 3rpx;
+  /* background: white; */
+}
+.video{
+  margin-left: 20rpx;
+  margin-right:20rpx;
+  /* background: white;  */
+}
+.video1{
+  width: 94%;
+  margin-left:3%;
+  margin-right:3%;
+  margin-top:5rpx; 
+}

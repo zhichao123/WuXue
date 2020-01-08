@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/yaoweixin/yaoweixin",
+    "pages/qutuidao/qutuidao",
+    "pages/shuosaohua/shuosaohua",
+    "pages/yaoweixin/item/item",
+    "pages/yaoweixin/video/video"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "吴学",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "backgroundColor": "#fff",
+    "selectedColor": "#FF0000",
+    "list": [
+      {
+        "pagePath": "pages/yaoweixin/yaoweixin",
+        "text": "要微信",
+        "iconPath": "/image/yaoweixin.png",
+        "selectedIconPath": "/image/redyaoweixin.png"
+      },
+      {
+        "pagePath": "pages/shuosaohua/shuosaohua",
+        "text": "说骚话",
+        "iconPath": "/image/saohua.png",
+        "selectedIconPath": "/image/redsaohua.png"
+      },
+      {
+        "pagePath": "pages/qutuidao/qutuidao",
+        "text": "去推倒",
+        "iconPath": "/image/tuidao.png",
+        "selectedIconPath": "/image/redtuidao.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
